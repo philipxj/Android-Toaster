@@ -1,0 +1,3 @@
+rootProject.name='Android Toaster Library'
+include ':app'
+include ':toastermessage'
