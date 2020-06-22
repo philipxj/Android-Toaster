@@ -15,4 +15,5 @@ public class ToasterMessage {
     public static void ToasterTest(Context context,String string){
         Toast.makeText(context,string,Toast.LENGTH_SHORT).show();
     }
+    //test
 }
