@@ -13,5 +13,5 @@ Step 1. Add the JitPack repository to your build file
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.philipxj:Android-Toaster:Tag'
+	        implementation 'com.github.philipxj:Android-Toaster:1.0.5'
 	}
